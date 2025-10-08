@@ -1,0 +1,61 @@
+#Dataset: U.S. Population by State (2021)
+#Description: Each row represents one U.S. state with its name, two-letter postal abbreviation, Census region, and the 2021 population estimate.
+#Columns
+# 1: Geographic Area Name (string) — Full state name (e.g., “Oklahoma”).
+# 2: USPS two-letter state abbreviation (string, length 2) — Postal code (e.g., “OK”).
+# 3: Geographic Region Name (string) — One of “Northeast”, “Midwest”, “South”, “West”.
+# 4: 2021 Population Estimate (integer) — Estimated total population in 2021.
+# File format: Pipe-delimited (|) text with one header row.
+Geographic Area Name|USPS two-letter state abbreviation|Geographic Region Name|2021 Population Estimate
+Oklahoma|OK|South|3,959,353
+Nebraska|NE|Midwest|1,961,504
+Hawaii|HI|West|1,455,271
+South Dakota|SD|Midwest|886,667
+Tennessee|TN|South|6,910,840
+Nevada|NV|West|3,104,614
+New Mexico|NM|West|2,117,522
+Iowa|IA|Midwest|3,190,369
+Kansas|KS|Midwest|2,937,880
+District of Columbia|DC|South|689,545
+Texas|TX|South|29,145,505
+Missouri|MO|Midwest|6,154,913
+Arkansas|AR|South|3,011,524
+Michigan|MI|Midwest|10,077,331
+New Hampshire|NH|Northeast|1,377,529
+North Carolina|NC|South|10,439,388
+Ohio|OH|Midwest|11,799,448
+South Carolina|SC|South|5,118,425
+Wyoming|WY|West|576,851
+California|CA|West|39,538,223
+North Dakota|ND|Midwest|779,094
+Louisiana|LA|South|4,657,757
+Maryland|MD|South|6,177,224
+Delaware|DE|South|989,948
+Pennsylvania|PA|Northeast|13,002,700
+Georgia|GA|South|10,711,908
+Oregon|OR|West|4,237,256
+Minnesota|MN|Midwest|5,706,494
+Colorado|CO|West|5,773,714
+New Jersey|NJ|Northeast|9,288,994
+Kentucky|KY|South|4,505,836
+Washington|WA|West|7,705,281
+Maine|ME|Northeast|1,362,359
+Vermont|VT|Northeast|643,077
+Idaho|ID|West|1,839,106
+Indiana|IN|Midwest|6,785,528
+Montana|MT|West|1,084,225
+New York|NY|Northeast|20,201,249
+Puerto Rico|PR|South|3,285,874
+Connecticut|CT|Northeast|3,605,944
+Florida|FL|South|21,538,187
+Virginia|VA|South|8,631,393
+Massachusetts|MA|Northeast|7,029,917
+Illinois|IL|Midwest|12,812,508
+Mississippi|MS|South|2,961,279
+Arizona|AZ|West|7,151,502
+Utah|UT|West|3,271,616
+Wisconsin|WI|Midwest|5,893,718
+Alabama|AL|South|5,024,279
+West Virginia|WV|South|1,793,716
+Rhode Island|RI|Northeast|1,097,379
+Alaska|AK|West|733,391
